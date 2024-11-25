@@ -1,0 +1,43 @@
+# Ignorar archivos de sistema de MacOS
+.DS_Store
+
+# Ignorar archivos de sistema de Windows
+Thumbs.db
+ehthumbs.db
+
+# Ignorar archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Ignorar directorios y archivos generados por compilación
+node_modules/
+dist/
+build/
+*.log
+
+# Ignorar archivos de configuración específicos de un entorno
+.env
+.env.local
+.env.*.local
+
+# Ignorar archivos temporales
+*.swp
+*.swo
+
+# Ignorar binarios de compilación y otros
+*.exe
+*.out
+*.app
+
+# Ignorar archivos de dependencias de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignorar archivos de dependencias de Java
+*.class
+*.jar
+
+# Ignorar archivos de dependencias de Ruby
+*.gem
+
